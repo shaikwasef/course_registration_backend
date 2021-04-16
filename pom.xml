@@ -14,7 +14,7 @@
 	<name>course_api_data</name>
 	<description>CourseApi with data for spring boot application</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
